@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rifki Setiawan
 ======================================================================================================================================
 
-Penggemar TI
+IT Enthusiast
 ---------------------------------------
 
 I have been learning to code for about a year, and I keep learning until now. I started with html, then I learned java, and until now I am still learning that language and continue to improve my language skills by learning other languages as well.
